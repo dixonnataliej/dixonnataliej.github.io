@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Day 2 - Blogging it up!"
+date:   2025-06-10 04:54:49 -0600
+categories: jekyll update
+---
+
+Day 2! Quite excited to come to work this morning- none of the nerves of yesterday! Started off the day drafting my Viget.com bio- I've got a good start but I've never been concise in my life so the 450 characters is a bit tricky. Also need to brainstorm a bit on my *granular interests*. Then Rhyder and I went to our first Dev Standup (we were the first ones there) where we met the Devs and listened to the updates. I understood maybe a little bit of what folks were saying - recognized some acronyms from my day 1 meeting with Danny yesterday - Nevin was trying with difficulty to remember how he set up an environment from a year ago (so true). Rhyder and I introduced ourselves - "this is my second **day** at Viget!". 
+
+After standup I sat outside with a beautiful view of the Flatirons and locked in on my blog. Did a couple restarts as I realized I could not just use the Ruby that was already on my Mac (Re-Reminder to self to never use Mac System defaults) so I used asdf and got it all figured out. Was also using too many tutorials and created files in my remote repo before I realized Jekyll would create them for me. Really wasn't painful at all, just interesting enough for me to remember that coding and even just problem solving set up stuff is **fun** to me! (haven't touched my terminal in a month since graduating and I forget when I am away from it)
+
+<img src="/assets/images/day2_flatirons.jpg" alt="Flatirons and blog" style="width:50%;" />
+
+After lunch I had my Pairing Tour w/ Danny which I found super interesting to just be along for the ride as we tracked down a bug related to uploading XLSX files (using Roo gem) for the AACT project. Got some exposure to Docker (itty bitty VM) and rspec (Ruby testing library). We (and by we I mean Danny) found the issue in the repeat column names and post renaming those it looked to be working. Danny walked through the process of uploading the files for teachers and coaches, generating matches, approving a match, and sending the email. Then Danny did a quick overview of how a Rails app works and the MVC(Model-View-Controller) framework. What he said made sense but I'll have to do some reading on my own (what I've got is model = database table, controllers update the models, views is the index page). Here's an image I found on the Internet:
+
+![MVC architecture](/assets/images/day2_mvc.jpg)
+
+Andy gave a presentation to the interns about Viget and how Viget makes money / runs as a business which was interesting. We don't have to track time as interns but I'd be interested to see how it works- I find it fascinating how people fill time and also like to look at nice color-coded spreadsheets and calendars. 
+
+Aubrey and the interns took an outing to Trident Booksellers/Cafe and the Boulder Bookstore - two classic Boulder institutions, before our intern standup meeting, where we were introduced to THE SCRAM!! I would like to win. Then I finished up the blog post for day 1 and wrote this one here for day 2!
+
+![The 5 Viget interns with buffalo on pearl street mall](/assets/images/day2_buff.png)
+
