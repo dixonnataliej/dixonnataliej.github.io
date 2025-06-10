@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 1! - Fine & Normal!"
+date:   2025-06-09 02:54:49 -0600
+categories: jekyll update
+---
+
+My first day at Viget!
+
+I was so nervous walking up to the office this morning, this being my first internship and first time doing anything like this. I don't even know what I was worried about, because I was sure it'd be a **fine and normal** experience, but I was nevertheless. I walked around the block so I wouldn't show up too early, taking deep breaths and repeating affirmations in my head. 9:30 arrived, and I steeled myself, climbed up the stairs, punched in the code, and went through the door. The moment I walked in I was set at ease. Immediately struck by the **fineness and normalness** of it! The office is beautiful, the people are friendly, it's just another fun and exciting and interesting new thing! And I (self proclaimed) love trying new things! 
+
+We started the day off with a tour of the office and an orientation meeting, where we started our paperwork and account setting up. After a yummy team lunch at Sherpa's, it was back to the paperwork and checklists and reading handbooks. Then I did my first advisor meeting with Danny (who is reading this - hi Danny!) where we talked about the Dev Team and went over the curriculum and plan for the summer - which was reassuring as it all seems interesting and attainable! Finished off the day by getting through the last of the admin/set up work, fueled by free M&Ms from the kitchen. Took a quick look at the blog project- stressed about setting up Ruby until Google informed me it was already installed on my Mac! How helpful... (this post is being written retroactively the next day so future me knows better)
+
+5pm came around - an 8 hour day at work! (well almost) The office chatted as we all finished up, then I took the interns out to Gelato Boy across the street with my extensive Boulder Local knowledge!
+
+![The 5 Viget interns with icecream](/assets/images/day1_interns.jpg)
