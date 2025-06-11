@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <div class="circle-grid">
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      {% for post in site.posts %}
+        {% assign parts = post.title | split: ' - ' %}
+        {% assign day = parts[0] %}
+        {% assign name = parts[1] %}
+
+        <a href="{{ post.url | relative_url }}" class="circle-card-link">
+          <div class="blue-circle">
+            <div class="post-title">{{ name }}</div>
+
+            <div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+            <div class="orange-circle">{{ day }}</div>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
