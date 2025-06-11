@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Day 3 - Picture Day!"
+date:   2025-06-11 04:54:49 -0600
+categories: jekyll update
+---
+ Today was picture day! After dev standup (and enjoying some scones I made 
+ and brought to the office) we stood outside on the balcony 
+ and got some beautiful portraits taken by Steven, then we had a lot of fun 
+ with group pictures. 
+
+ <img src="/assets/images/day3_cohort_star.jpg"
+ style="width:50%;" />
+
+Then I settled in to work on learning some Ruby via the Excercism course but 
+ soon ran into a problem where the test cases on the online editor were 
+ timing out - and I was pretty sure my simple addition lasagna class didn't 
+ have any infinite loops. A search of the forums told me that it's a known 
+ problem and will hopefully be fixed "very soon". 
+
+Then we had a meeting on Viget Services and Teams with Steven which was 
+super interesting to see every single person at the company and what they do.
+Learned about the difference between Project vs Product Managers and Product vs 
+Visual Design. The User Experience Strategy and PL/UI Development teams were 
+two I hadn't really known about at all. In terms of Viget work we talked 
+about project-based vs team extensions projects then looked at some really 
+cool projects Viget is/was a part of such as the National Parks Foundation 
+and Stern Pinball. We also got sandwiches on Viget which was excellent.
+
+Right before lunch I had a stroke of inspiration on my blog styling so 
+afterwards I worked on that. I spent a decent hour and a half trying to 
+figure out how to work with the jekyll minima template I was already using 
+and in order to just add a few custom elements to the base. But it got to be 
+quite 
+confusing with what files I needed to create and 
+write over vs the hidden ones included in the theme and getting the css 
+files to work together. So I eventually just 
+ended up downloading all the theme files so that I could see them and work 
+on them directly instead of overwriting with my own. And thus I was able to 
+style my blog post titles on the home page into the Viget dots!
+
+ <img src="/assets/images/day3_before.png"
+ style="width:44%;" />
+<img src="/assets/images/day3_arrow.png"
+ style="width:10%;" />
+ <img src="/assets/images/day3_after.png"
+ style="width:44%;" />
+
+To finish off the day I finished off a first draft of my Viget.com bio, sent 
+some emails, and wrote this blog post!
+
