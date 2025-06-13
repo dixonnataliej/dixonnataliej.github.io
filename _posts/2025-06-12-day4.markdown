@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Day 4 - Reaching Out!"
+date:   2025-06-12 04:54:49 -0600
+categories: jekyll update
+---
+
+Much of the day today felt like meetings then little pockets of time in 
+between. At Dev Standup I introduced David to the concept/word "popcorn" for 
+meetings apparently and there was also an appearance by his bird! 
+
+We had an intro to Lattice meeting, which was interesting to see 
+just how important feedback and review and reflection is at Viget. I think 
+the weekly updates and 1:1s on Lattice as well as these blog posts will be / 
+are good for me because I tend to forget my opinions and the way I felt 
+about things pretty quickly (versus like facts and events which stick pretty 
+well) so the practice of regular recording is helpful for me. 
+
+After lunch we had Intro to Client Services with Kelly, which we finally 
+managed to join after many technical difficulties (I knew from the 
+#engineering slack channel that the internet was having a rough time). It 
+sounds like very complex work to plan out and manage the projects, and it 
+was interesting to hear about pretty much all the projects Viget is working 
+on and who's PMing them, as well as to see a contract. I've definitely got a 
+list of projects I want to read the Notion project briefs for.
+
+I didn't feel very productive between meetings today - I did some emails and 
+slack stuff, a couple Ruby exercises (Exercism is back working again!), 
+chose what to order for FLF (FBF for mountain time), chatted with the 
+interns, had lunch, got boba. Important 
+stuff. Finally got some focus time at 3:30 pm where I did some reading about Ruby on Rails that I'd been wanting to get to and read through the 
+hacker news assignment and did some very preliminary set up work. I was 
+holding up the office to go to social hour after work because I wanted to 
+keep downloading stuff to get the rails app up. I've decided to call it 
+Natalie News for the moment. Hope to get at least a bit of good locked in time 
+tomorrow bc I'd like to make some tangible progress on hacker news and I 
+also have an idea to see if I can get something interactive on the blog. 
+Also excited for FLF!
+
+Today I did do some things which are very hard for me which are **reaching 
+out**, asking questions, creating/taking advantage of opportunities. I asked Danny 
+some questions about meetings, and I asked Kelly if we could meet to learn 
+more about time tracking. Kinda simple stuff but for me I get really in my 
+head about it. I'd be happy to keep my head down and read things and figure 
+stuff out on my own but I know the more I connect with people and the work 
+they do the more I will push my self and get the most out of the 
+internship!! Planning to slack Maria tomorrow to see if I can learn more 
+about the MW project, maybe sit in on the SNAP meetings, learn about product 
+management. Everyone's always talking about MW, seems like such a big 
+project! I'll definitely also learn some more about it tomorrow on my 
+pairing tour with Sol tomorrow and future tours with the other JS devs.
+
+ <img src="/assets/images/day4_crochet_circles.jpg"
+ style="width:50%;" />
+
+ Crocheted the Viget circles before work this morning to decorate my monitor.
+ 
+ <img src="/assets/images/day4_bereal.jpg"
+ style="width:50%;" />
+
+ BeReal from the social hour! Apparatenly the first time anyone has let 
+ Steven be in their BeReal.
