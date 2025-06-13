@@ -58,5 +58,5 @@ pairing tour with Sol tomorrow and future tours with the other JS devs.
  <img src="/assets/images/day4_bereal.jpg"
  style="width:50%;" />
 
- BeReal from the social hour! Apparatenly the first time anyone has let 
+ BeReal from the social hour! Apparently the first time anyone has let 
  Steven be in their BeReal.
