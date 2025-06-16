@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Day 6 - The First PR!"
+date:   2025-06-16 04:54:49 -0600
+categories: jekyll update
+---
+
+It is Week 2! Met Emily (and Brian later). Started off the morning with a 1:1 with Danny - good to check in and hear a little more about the hacker news project, ketchup, and how I'll do my PRs for the assignment. Then we had dev standup and a Rails Microcourse with Danny again. Review of what I've been reading about Ruby on Rails and his example was very similar to what I'm working on for hacker news so it was a good preview of what I worked on directly after. I also understand database migrations a little more - in my EECS 485 instagram clone I would manually write and update my schema.db file for SQLite, and with db migration the schema file (which I found and was useful to look at) is automatically updated with a record of changes. I then used company time and resources (aka the usb port on the monitor) to see, fix, and manually upload a corrupted .fit file from my garmin watch which was quite satisfying to have it work and get my long run uploaded. Felt like an engineer haha. Worked some more on the project - putting into vigetlabs on github (ahh! feels official/ like I'm trespassing), getting the webhook to work so it's connected to code review bot, writing issues for features) then had lunch w/ the office in Run. 
+
+After lunch I made my first PR in the code review channel, little scary, esp bc it's 1500 lines of scaffolding I don't fully understand. But I knew Danny would give me good feedback! (Which he did)
+
+<img src="/assets/images/day6_pr.png"
+ style="width:50%;" />
+
+Then Viget History & Future with Brian to learn about Viget, which is our company now and should mean something to us :) 
+Highlights: Do work we're proud of with peers we're proud of
+Be a part of a meaningful and lasting company (Brian wants Viget to be a footnote in the history of the internet as one of the good guys)
+Office space should be inspiring & functional
+Hard workers that are brave and ambitious about what their careers and Viget can be.
+
+Interesting to learn about the very beginning, starting the company on December 27th 1999 to beat the millennium, the early days of the internet, making software usable. Also saw the graph of Viget employees of the past 25 years, steady growth up to a max of over 75 but a bunch of layoffs in 2023&24, so now they're using more subcontractors and looking for slow steady growth back to 75-100. Viget colors are University of Virginia colors.
+
+<img src="/assets/images/day6_uvalogo.png"
+ style="width:50%;" />
+
+After the meeting I saw that Danny had reviewed my PR - thanks Danny! Exposing the stuff that I didn't understand with the scaffolding and setup haha, I will do it by hand from now on. Trying to not get too lost in the ChatGPT/scaffolding sauce learning this new stuff, like it'ss give me somewhat correct answers that I mostly understand but it's not the same as doing it myself. Asked about what kind of testing Danny would like to see me do with rspec. Committed and pushed that in response (though I did it wrong and had to squash and force push oops). Then I wrote this blog post, with a break to admire/share laughter over Aubrey's photoshop editing with the interns aka Aubrey's cheer team.
