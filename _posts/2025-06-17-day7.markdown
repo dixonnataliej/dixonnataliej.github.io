@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Day 7 - Meetings Meetings!"
+date:   2025-06-17 04:54:49 -0600
+categories: jekyll update
+---
+
+<img src="/assets/images/day7_meetings.png"
+ style="width:50%;" />
+
+Fully loaded day! Got into work just on time this morning for intro to contracts with Cindy - some review of the How Viget makes money and intro to client services meetings. Learned some acronyms, Viget is very transparent, deeper dive on pricing. Cindy dropped some crazy lore that Britney Spears used to be a Viget client and would call Brian at 11pm with ideas then her manager would call and say "DONT DO THAT".
+
+Then SNAP Planning/Grooming meeting which Maria got me into - my first client meeting! Basically just a standup, everyone reported what they worked on, Maria showed and moved some tickets around from to-do to in progress to review. Only took 15 min instead of an hour, so Maria moved our 1:1/MW overview up so I went right into that. Some review of what I talked about with Sol about VISUAL database but mostly new. Viget was originally augmenting internal team then took the project over, there was a lot of technical debt and legacy code and prioritization needed. Pricing strategies, rounding, Chris M is working on the Configurator which is a better and easier 1 to 1 to VISUAL to manually add new parts and figure out unit costs. For Maria's role, she translates business requirements into tickets, writes requirement/training docs for features, plans sprints, demo for users, triage user requests, and lots of QA - about 70% of work (we're going to do some later together!).
+
+Then biweekly dev meeting - second of the month so no free lunch :(. Noah gave us a video that David sent him and we watched on our own then came back together to discuss.
+[The Role of The Human Brain in Programming](https://youtu.be/1WC8dxMC4Xw?si=Vv9c3z_aBIYa2D4I).
+Programming is theory building!!
+Vibe Coding = Legacy Code because it is code that no one understands.
+Tool > Agent
+Learned helplessness
+We should have a connection to what we create.
+Saying "you don't need to learn how to program anymore" is like saying kids don't need to learn addition because you can use SUM in a spreadsheet. They wouldn't know what a sum is!
+From Noah to the interns: understand what the AI spits out! We are accountable for every line of code. Don't put it on your teammates to read and fix your code when reviewing your PR.
+
+After lunch had my pairing tour with Chris J, he's been at Viget for 15 years, started as front end, moved to rails, devops for a while, and now JS. Vim user. I always get a little self conscious talking about my experience with programming and computer science education because I feel like I don't know enough, that I'm missing something. So I was telling Chris like yeah C++ foundational, Python, JS, I'm here to learn. We paired to add a second column to quote history for contribution margin. It was pretty straightforward, just duplicated the code for gross margin but with unitBurdenCost. The hard part was trying to find data to test that actually had the contribution margin and knowing if the data was supposed to be empty or not - used some SQL to find a part to test with. Then with our time at the end we talked about tests, I asked about writing test cases before v after and Chris said test driven development isn't really a thing at Viget which is kind of news to me because I talked about it in my application video because I'm pretty sure I saw it on the internship info page when I applied. But nonetheless Viget loves tests, automated tests to know that the code works now and works later.
+
+Finally got to do non meeting things for the first time all day, reviewed Aubrey's suggestions for my bio and I'm now on the website! I read Danny's comment about rspec testing and merged the PR, then made a spec for articles to test CRUD. 1:1 with Aubrey, talking about conjugating vos with Tommy, intern standup, and writing this blog post!
