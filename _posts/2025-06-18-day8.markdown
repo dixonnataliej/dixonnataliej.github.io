@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 8 - Sanitas!"
+date:   2025-06-18 04:54:49 -0600
+categories: jekyll update
+---
+
+Blog time! Am I getting a little tired of writing these long blog posts at 4:30 everyday? Yeah. Did I do this to myself? Also yeah. Danny said I could blog as much or as little as I want and here I am on the "as much" side haha.
+
+But yes! We hiked up Sanitas this morning with Brian! (just saw that my most recent PR isn't passing test cases hold on). Well just spend half an hour + on that and it's not fixed lol. Okay hiked Sanitas, slow and chill, barely made it back to dev standup - logged on from my phone as I walked from my car. Pairing tour with Noah, maybe the quietest so far, looking at WCS (Wildlife Conservation Society?) and making a new catalog for the bronx zoo ticketing for a single day event so that the view just shows times and not a calendar. Pretty simple, good amount of styling.
+
+Did a PR for sort articles by date and tests for article CRUD and sort by most recent. Picked up some lunch from Illegal Pete's (alter ego = Legal Peter) and had lunch with the interns and Aubrey and Emily. Said goodbye to Aubrey :,(. 
+
+After lunch reviewed Danny's comments on the PR - added factory bot to make default articles for testing. Then worked on my next issue which was some basic styling so it's more fun for me to look at. Took longer than expected of course because I was like "how about I use Tailwind!" and idk what Tailwind is soooo, and it was close to working, I think I understand it but something weird was going on and it just wasn't doing what it was supposed to, none of the styling was showing up, so I restored my branch history and started from scratch with some custom css from chatgpt. Grappled with Chat for a while about how I wanted it to look, made a low quality Natalie News logo, and made that PR. Was thinking about merging myself w/o review bc just simple style stuff but of course then i ran into a host of issues with the github CI tests not passing and yeah so I went back and forth on that for several commits, gave up a little because I'm tired and left a comment for danny saying i'm stuck. okay done for the day!
