@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 9 - COLORS!"
+date:   2025-06-20 04:54:49 -0600
+categories: jekyll update
+---
+
+Came in this morning, accompanied the interns for a sweet treat, then I looked at the teach chemistry repo and their build-deploy.yml file to figure out my issue with github CI workflow for testing - and it worked! All checks passed! So didn't have to ask Danny about it after all, asked him some q's about dependabot PRs and how to start user authentication for Natalie News which felt illegal bc he's on PTO but he said I could soo.
+
+Dev standup then FLF!! Maria gave the project presentation on MW SNAP with a picture of and shoutout for every team member and what they're working on. Then Tommy gave a quickshare about AI tools - specifically Big Sur AI's agent for ecommerce, looking into seeing if it could work for MW. However probably can't be precise & robust enough, not better than current tool Algolia, AI might not be ready for every use case. Brian DiChiara gave the Code & Tell which is like an update on lots of code-y stuff, one article he shared was interesting to me- comparing generative AI to a gambling addiction, really resonated with me "just one more prompt" like if you can give it a little more context, another error message, chatgpt will finally figure out the problem. From Kate's BD updates I learned that a magic email is something you send to a project that hasn't talked to you in forever that says "you're probably going in a different direction..." and it inspires guilt and can bring a project back from the dead (zombie project). Then Chris Jones did a labshare on Colors and IT WAS WILD! We were all going crazy it was so interesting and funny and complex and full of twists and turns. "Hello chat" "that's foreshadowing by the way". There was a video of a color sphere, everyone went whoaaa. Tangible useful info / connection at the end of a better way to pick colors - oklab. We were told this was not a normal lab share, Chris Jones is built different. I hung around for the RPM meeting afterwards.
+
+Boulder office had Snarfs together, I did some git cleanup, Tommy gave the interns an MW quest which was QA work that needed to be unblocked so I did a little bit of work on pagination, using the Pagy gem which the internet tells me is the best one, thought it'd be easy but then I got stuck of course and it took longer than expected because I was using "items" instead of "limit" for the number of articles on a page.
+
+Then got started on the QA for Tommy, the staging environment is so slowwwww. Working through the notion document, checking things off, copy and pasting links, $19000 worth of screws in my cart. Would be a blast if I wasn't so exhausted. Then I did my Lattice update, which was also hurting and quite sparse bc I am so tired and can't remember anything from the week, and wrote this blog post! Nobody's left yeah but like guys it's Friday it's 4:50 we should head out...
