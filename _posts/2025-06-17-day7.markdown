@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <img src="/assets/images/day7_meetings.png"
- style="width:50%;" />
+ style="width:25%;" />
 
 Fully loaded day! Got into work just on time this morning for intro to contracts with Cindy - some review of the How Viget makes money and intro to client services meetings. Learned some acronyms, Viget is very transparent, deeper dive on pricing. Cindy dropped some crazy lore that Britney Spears used to be a Viget client and would call Brian at 11pm with ideas then her manager would call and say "DONT DO THAT".
 
