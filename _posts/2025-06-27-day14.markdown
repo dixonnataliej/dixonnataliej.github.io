@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 14 - Shuffling Some Comments!"
+date:   2025-06-27 04:54:49 -0600
+categories: jekyll update
+---
+
+The title today is me trying to make what is perhaps a pun on Sharon's EDM dance Labshare (including shuffling) and also the several hours of work I did today on comments for Natalie News. It is 5:43 pm currently so I'm not sure I'm going to actually write this blog post now, maybe just outline and I'll comeback over the weekend or first thing monday.
+
+1:1 with Jeremy about CMSs and platform development - a sneak peek into Viget.com!
+
+FLF! A shoutout from Brian for locking in in my day in the life video.
+
+Comments! Getting the basic stuff together pretty quick, office hours with Danny looking at test coverage and an issue with parameters (requires instead of expect) then I wrote up tests for those which took a while, quite stuck on invalid comment create and I'm still stuck on it, holding me back from perfect 100% coverage, but I got a PR up!
