@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Day 15 - Ketchup Kickoff!"
+date:   2025-06-30 04:54:49 -0600
+categories: jekyll update
+---
+
+I fear this is going to be another outline - I'm getting behind on the blog ahhhh.
+
+Brought in some new puzzles for the office, dev standup, made a test for the invalid comment to get full coverage. Read the State of Devs 2025 report that was sent in Slack.
+
+Pairing tour with Nevin this was lovely we chatted he helped me shut down my AWS instance I saw some devops work, copy and pasting redirecting urls.
+
+Ketchup kickoff - probably working on that this week, testing next week and deploying. Some confusion over feature definition, Aubrey and Lauren perhaps have different ideas for the project.
+
+1:1 with Danny
+
+Natalie News work bc no Ketchup tickets quite yet. Self referential comments, reset password didn't need anything, in the weeds trying to insert a react component for replies, I will ask Danny about it.
+
+Okay time to social hour! To game!
