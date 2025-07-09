@@ -11,3 +11,5 @@ Good reddit thread !! Just what I've been thinking about - learning, growing, be
 https://www.reddit.com/r/webdev/comments/1ltydou/how_do_you_fix_this_invisible_wall_where_youre/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 P.S. Used byebug a couple times today to debug, not very masterfully but looking into some variables, I should probably watch a tutorial or go back into my notes to see what Danny said about it.
+
+At home I worked on adding a search bar to the blog, it does successfully search on content but not too usefully yet, started writing some custom js to show an excerpt of the content which includes the keyword.
