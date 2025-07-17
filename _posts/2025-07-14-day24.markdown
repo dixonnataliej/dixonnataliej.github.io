@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 24 - Intern Project Kickoff!"
+date:   2025-07-14 04:54:49 -0600
+categories: jekyll update
+---
+
+TO DO
